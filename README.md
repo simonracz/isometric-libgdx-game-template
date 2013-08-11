@@ -1,2 +1,3 @@
-isometric-libgdx-game-template
+Isometric-LibGdx-Game-Template
 ==============================
+
