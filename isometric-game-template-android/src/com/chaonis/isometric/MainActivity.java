@@ -11,7 +11,9 @@ public class MainActivity extends AndroidApplication {
         super.onCreate(savedInstanceState);
         
         AndroidApplicationConfiguration cfg = new AndroidApplicationConfiguration();
-        cfg.useGL20 = false;
+        cfg.useGL20 = true;
+        cfg.useAccelerometer = false;
+        cfg.useCompass = false;
         
         initialize(new Isometric(), cfg);
     }
