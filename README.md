@@ -1,3 +1,5 @@
+![isometric screenshot](screenshot.png)
+
 Isometric-LibGDX-Game-Template
 ==============================
 
